@@ -1,0 +1,36 @@
+button {
+  display: block;
+  margin-bottom: 10px;
+  height: 40px;
+  width: 100px;
+  color: #4ca8af;
+  font-weight: bold;
+  border-radius: 20px;
+  border: 2px solid #4ca8af;
+  font-weight: 900;
+  background-color: aliceblue;
+}
+
+button2 {
+  display: block;
+  margin-bottom: 10px;
+  height: 40px;
+  width: 40px;
+  background-color: aqua;
+  border-radius: 50%;
+  color: white;
+  border-color: aqua;
+  text-align:center;
+}
+
+button3 {
+  display: block;  
+  margin-bottom: 10px;
+  height: 40px;
+  width: 150px;
+  background-color: blue;
+  color: azure;
+  text-align: center;
+  border: 2px solid black;
+  box-shadow: 5px 5px black;
+}
